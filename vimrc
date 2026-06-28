@@ -1,3 +1,5 @@
+set autochdir
+
 function! CopyURL()
     let url = expand('<cfile>')
     if url =~ '^https\?://'
