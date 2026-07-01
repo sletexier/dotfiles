@@ -1,1 +1,1 @@
-Ma config vi/vim
+Ma config vim
